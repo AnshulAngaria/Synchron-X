@@ -1,0 +1,6 @@
+*.sx
+*.asm
+*.o
+*.out
+*.txt
+*tmp*
